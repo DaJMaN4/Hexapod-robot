@@ -6,6 +6,6 @@ explain how the code works and how can you program your own hexapod robot
 
 So first i will explain the matematics that i use to program the robot 
 I used invers kinematic for this, i learned fundamentals on this webside
-so check it out
+so check it out if you want, but i will explain it here too
 https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/
 
