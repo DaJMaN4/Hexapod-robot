@@ -9,3 +9,4 @@ I used invers kinematic for this, i learned fundamentals on this webside
 so check it out if you want, but i will explain it here too
 https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/
 
+Matematics.pdf describes math i used in the robot, language and explaining will be improved 
