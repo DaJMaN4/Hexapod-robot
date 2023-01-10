@@ -6,3 +6,5 @@ My brother has done the general design. I did wiring, assembly, and later improv
 The whole circuit is uncomplicated. Every moderate electronic enthusiast can build it by himself. So, if you want to create a robot but need help coming up with some things, this repository will be helpful for you. 
 
 ![alt text](https://raw.githubusercontent.com/DaJMaN4/Hexapod-robot/main/Images/Block-explanation-hexapod.png)
+
+Everything about the robot is described in the documentation. 
