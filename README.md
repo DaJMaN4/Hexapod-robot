@@ -1,12 +1,7 @@
-# Hexapod-robot-with-raspberry-pi-
-Building and programming a hexapod robot with raspberry pi as main cpu
+# Hexapod robot
+Building and programming a hexapod robot with raspberry pi as the main CPU.
 
-I  got the robot with assembled, what i did was programming so here i will 
-explain how the code works and how can you program your own hexapod robot 
+My brother has done the general design. I did wiring, assembly, and later improvement in design. In this repository, you can find a pdf with complete documentation regarding this project, a simulation of a robotic leg, and code inside the robot.
 
-So first i will explain the matematics that i use to program the robot 
-I used invers kinematic for this, i learned fundamentals on this webside
-so check it out if you want, but i will explain it here too
-https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/
+The whole circuit is uncomplicated. Every moderate electronic enthusiast can build it by himself. So, if you want to create a robot but need help coming up with some things, this repository will be helpful for you. 
 
-Matematics.pdf describes math i used in the robot, language and explaining will be improved 
